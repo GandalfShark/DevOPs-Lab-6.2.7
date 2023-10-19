@@ -1,0 +1,26 @@
+/* CSS for the page */
+body {
+  background-color: orange;
+}
+
+div {
+  border: 2px blue;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: green;
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
+
+a {
+  text-decoration: none;
+  color: #008CBA;
+}
